@@ -236,7 +236,7 @@ ls /sys/class/hwmon/hwmon*/temp1_input
 
 | GRUB | SDDM | Wofi |
 |------|------|------|
-| ![GRUB](screenshots/5.jpg) | ![SDDM](screenshots/6.jpg) | ![Wofi](screenshots/7.png) |
+| ![GRUB](screenshots/5.avif) | ![SDDM](screenshots/6.avif) | ![Wofi](screenshots/7.avif) |
 
 *Note: GRUB/SDDM screenshots are phone photos; others are direct `hyprshot` captures.*
 
